@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/start.png</file>
+        <file>img/17.png</file>
+        <file>img/settings.png</file>
+        <file>img/free-icon-settings-3524636.png</file>
+        <file>img/free-icon-cross-mark-17047.png</file>
+        <file>img/btn_start.png</file>
+        <file>img/kisspng-computer-icons-door-5af118f4af3de6.6309196315257500047178.png</file>
+        <file>img/aut.png</file>
+        <file>img/free-icon-player-substitution-3507769.png</file>
+        <file>img/free-icon-play-8771533.png</file>
+        <file>img/free-icon-play-8839054.png</file>
+        <file>img/start (2).png</file>
+        <file>img/7.png</file>
+        <file>img/main.png</file>
+        <file>img/188.png</file>
+        <file>img/citysamp.png</file>
+        <file>img/city1.png</file>
+        <file>img/city2.png</file>
+    </qresource>
+</RCC>
